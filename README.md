@@ -1,0 +1,2 @@
+# easygo
+Tools to Go
